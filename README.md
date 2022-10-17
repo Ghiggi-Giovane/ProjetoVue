@@ -1,4 +1,4 @@
-# hello-world
+# k1-solucoes
 
 ## Project setup
 ```

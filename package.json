@@ -1,5 +1,5 @@
 {
-  "name": "PROJETO.VUE",
+  "name": "k1-solucoes",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,12 +9,12 @@
   },
   "dependencies": {
     "axios": "^0.21.4",
-    "bootstrap-vue": "^2.22.0",
+    "bootstrap": "^4.6.0",
+    "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
-    "vue": "^2.7.10",
+    "vue": "^2.6.14",
     "vue-axios": "^3.4.1",
     "vue-cookies": "^1.7.4",
-    "vue-icon": "^2.3.0",
     "vue-json-viewer": "^2.2.22",
     "vue-router": "^3.2.0",
     "xml2js": "^0.4.23"
@@ -26,8 +26,6 @@
     "@vue/cli-plugin-router": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
     "babel-eslint": "^10.1.0",
-    "babel-install": "2.1.0",
-    "bootstrap": "^5.2.2",
     "eslint": "^8.23.1",
     "eslint-config-google": "^0.14.0",
     "eslint-config-prettier": "^8.5.0",
@@ -40,7 +38,6 @@
     "prettier": "^2.7.1",
     "typescript": "^4.8.3",
     "vue-template-compiler": "^2.6.11",
-    "webpack": "^4.0.0",
     "webpack-dev-server": "^4.9.1"
   }
 }
