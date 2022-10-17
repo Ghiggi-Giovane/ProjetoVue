@@ -12,7 +12,11 @@
     "bootstrap": "^4.6.0",
     "bootstrap-vue": "^2.21.2",
     "core-js": "^3.6.5",
+<<<<<<< HEAD
     "vue": "^2.6.14",
+=======
+    "vue": "^2.7.13",
+>>>>>>> b6149bb7ccef8afeb628ad19d7d5760f4c262bfb
     "vue-axios": "^3.4.1",
     "vue-cookies": "^1.7.4",
     "vue-json-viewer": "^2.2.22",
